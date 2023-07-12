@@ -5,7 +5,8 @@ This project was designed to learn how to do full stack applications uing the ME
 
 ## Installation Guidelines: 
 First clone the application using:
-`$ git clone git@github.com:luisv01/FullStack-Banking-App-Capstone.git`
+
+    `$ git clone git@github.com:luisv01/FullStack-Banking-App-Capstone.git`
 
 Then run `npm install` to install all dependencies.
 
